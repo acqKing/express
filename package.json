@@ -1,8 +1,8 @@
 {
-  "name": "express",
+  "name": "exp",
   "version": "1.0.0",
   "description": "web server",
-  "main": "meadownlark.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/acqKing/express/issues"
   },
-  "homepage": "https://github.com/acqKing/express#readme"
+  "homepage": "https://github.com/acqKing/express#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
 }
