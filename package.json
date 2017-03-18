@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "web server",
+  "main": "meadownlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acqKing/express.git"
+  },
+  "author": "fangqing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acqKing/express/issues"
+  },
+  "homepage": "https://github.com/acqKing/express#readme"
+}
